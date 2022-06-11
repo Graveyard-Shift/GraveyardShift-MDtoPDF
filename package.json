@@ -1,0 +1,11 @@
+{
+  "name": "GraveyardShift-MDtoPDF",
+  "version": "0.1.0",
+  "description": "Convert Markdown to PDF.",
+  "main": "index.js",
+  "author": "The GYS Authors",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
